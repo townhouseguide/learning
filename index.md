@@ -18,6 +18,8 @@
 
 [MIT Data Science in Real Estate](https://mitcre.mit.edu/online-courses/data-science-in-real-estate)
 
+[R walk-through in King County, WA](https://www.youtube.com/watch?v=Yz_Tzxkl-mI)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
