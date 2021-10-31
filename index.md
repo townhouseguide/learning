@@ -14,6 +14,8 @@
 
 [Radical Markets-Eric Posner](https://read.amazon.com/?asin=B07TP5HLWQ)
 
+[Data Science Strategies for Real Estate Development - thesis](https://dspace.mit.edu/bitstream/handle/1721.1/129099/1227098997-MIT.pdf?sequence=1&isAllowed=y) 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
