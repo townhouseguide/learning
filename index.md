@@ -14,7 +14,9 @@
 
 [Radical Markets-Eric Posner](https://read.amazon.com/?asin=B07TP5HLWQ)
 
-[Data Science Strategies for Real Estate Development - thesis](https://dspace.mit.edu/bitstream/handle/1721.1/129099/1227098997-MIT.pdf?sequence=1&isAllowed=y) 
+[Data Science Strategies for Real Estate Development - thesis](https://dspace.mit.edu/bitstream/handle/1721.1/129099/1227098997-MIT.pdf?sequence=1&isAllowed=y)
+
+[KDD - Knowledge Discovery in Databases](file:///Users/robertlazo/Downloads/1230-Article%20Text-1227-1-10-20080129.pdf)
 
 ### Markdown
 
