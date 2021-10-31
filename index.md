@@ -4,6 +4,8 @@
 
 [Opportunity Insights - Course](https://opportunityinsights.org/course/)
 
+[Omni Sci](https://speakerdeck.com/omnisci)
+
 
 ### Markdown
 
