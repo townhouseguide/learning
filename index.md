@@ -8,6 +8,9 @@
 
 [Omni Sci](https://speakerdeck.com/omnisci)
 
+[IBM AI in Healthcare Failure](https://spectrum.ieee.org/how-ibm-watson-overpromised-and-underdelivered-on-ai-health-care)
+
+
 
 ### Markdown
 
