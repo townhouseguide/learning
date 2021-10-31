@@ -10,7 +10,7 @@
 
 [IBM AI in Healthcare Failure](https://spectrum.ieee.org/how-ibm-watson-overpromised-and-underdelivered-on-ai-health-care)
 
-
+[National Security Commission on Artificial Intelligenc](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)
 
 ### Markdown
 
