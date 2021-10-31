@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Learning
+
+[Data Science for the Real Estate Industry - August 23, 2020](https://www.conferencecast.tv/talk-40095-data-science-for-the-real-estate-industry#.talkPage-header)
 
 You can use the [editor on GitHub](https://github.com/realdatanyc/learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
