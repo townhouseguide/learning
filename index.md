@@ -18,6 +18,8 @@
 
 [KDD - Knowledge Discovery in Databases](file:///Users/robertlazo/Downloads/1230-Article%20Text-1227-1-10-20080129.pdf)
 
+[MIT Data Science in Real Estate](https://mitcre.mit.edu/online-courses/data-science-in-real-estate)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
