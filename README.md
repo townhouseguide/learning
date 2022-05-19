@@ -7,6 +7,7 @@ https://opportunityinsights.org/course/
 
 
 # Google Search Info
+[Digital Publishing Basics](https://digitalpublishing101.com/digital-publishing-101/digital-publishing-basics/)
 [How Google Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs&t=188s)
 
 # Cloze Documentation
