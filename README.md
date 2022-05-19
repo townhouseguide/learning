@@ -6,6 +6,9 @@ learning how to utilize data for insight and predictive analytics
 https://opportunityinsights.org/course/
 
 
+# Google Search Info
+[How Google Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs&t=188s)
+
 # Cloze Documentation
 [Enabling built-in notes](https://help.cloze.com/article/1753-how-do-i-enable-cloze-built-in-notes)
 
