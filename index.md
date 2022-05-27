@@ -20,6 +20,8 @@
 
 [R walk-through in King County, WA](https://www.youtube.com/watch?v=Yz_Tzxkl-mI)
 
+[Eric Gordon - RealPlus](https://trd.media/ny/j0R4a4)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
