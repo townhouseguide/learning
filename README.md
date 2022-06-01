@@ -19,4 +19,4 @@ https://opportunityinsights.org/course/
 # Tokenized Real Estate
 [Aspen Coin Case Study](https://medium.com/krypital/security-token-case-analysis-aspen-coin-the-first-real-estate-security-token-offering-bbbcc52ace5)
 
-[Tokenized Securities](https://medium.com/solidblock/why-tokenized-securities-will-be-even-more-disruptive-than-cryptocurrencies-and-icos-de7eeb807f72)
+[Security Token Offerings](https://medium.com/solidblock/why-tokenized-securities-will-be-even-more-disruptive-than-cryptocurrencies-and-icos-de7eeb807f72)
