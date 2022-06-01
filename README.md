@@ -19,6 +19,8 @@ https://opportunityinsights.org/course/
 # Tokenized Real Estate
 [Aspen Coin Case Study](https://medium.com/krypital/security-token-case-analysis-aspen-coin-the-first-real-estate-security-token-offering-bbbcc52ace5)
 
-[Aspen Ritz Carlton Acquisition, public offfering](https://www.aspentimes.com/trending/in-18-million-deal-nearly-one-fifth-of-st-regis-aspen-sells-through-digital-tokens/)
+[Aspen St. Regis Acquisition, public offfering](https://www.aspentimes.com/trending/in-18-million-deal-nearly-one-fifth-of-st-regis-aspen-sells-through-digital-tokens/)
+
+Represented by De Baets’ Bangkok-based OptAsia Capital Co. Ltd, 315 Dean Associates Inc. acquired the five-star St. Regis for $70 million in September 2010 during the recession. Since then, $50 million has been put into renovations. The hotel opened in 1992 as a Ritz-Carlton Hotel before being converted to the St. Regis in 1998.
 
 [Security Token Offerings](https://medium.com/solidblock/why-tokenized-securities-will-be-even-more-disruptive-than-cryptocurrencies-and-icos-de7eeb807f72)
