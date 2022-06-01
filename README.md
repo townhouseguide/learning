@@ -24,3 +24,5 @@ https://opportunityinsights.org/course/
 Represented by De Baets’ Bangkok-based OptAsia Capital Co. Ltd, 315 Dean Associates Inc. acquired the five-star St. Regis for $70 million in September 2010 during the recession. Since then, $50 million has been put into renovations. The hotel opened in 1992 as a Ritz-Carlton Hotel before being converted to the St. Regis in 1998.
 
 [Security Token Offerings](https://medium.com/solidblock/why-tokenized-securities-will-be-even-more-disruptive-than-cryptocurrencies-and-icos-de7eeb807f72)
+
+[OptAsia Equity purchase of St. Regis Aspen](http://www.optasiacapital.com/blog/press-releases/4-st-regis-aspen-sold-for-70-million)
