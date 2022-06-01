@@ -15,3 +15,8 @@ https://opportunityinsights.org/course/
 
 # Resource Documenation
 [Advertise Rental Listings](https://support.corcoran.com/hc/en-us/articles/1500010871701-How-do-I-advertise-an-open-rental-in-reSOURCE)
+
+# Aspen Coin
+[Aspen Coin Case Study](https://medium.com/krypital/security-token-case-analysis-aspen-coin-the-first-real-estate-security-token-offering-bbbcc52ace5)
+
+[Tokenized Real Estate](https://medium.com/solidblock/why-tokenized-securities-will-be-even-more-disruptive-than-cryptocurrencies-and-icos-de7eeb807f72)
