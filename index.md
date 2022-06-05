@@ -1,5 +1,7 @@
 ## Learning
 
+[Community Precervation Corpoatinon](https://communityp.com/)
+
 [Data Science for the Real Estate Industry - August 23, 2020](https://www.conferencecast.tv/talk-40095-data-science-for-the-real-estate-industry#.talkPage-header)
 
 [Compass True North](https://medium.com/compass-true-north/machine-learning-in-action-for-compasss-likely-to-sell-recommendations-699a6dcd5076)
