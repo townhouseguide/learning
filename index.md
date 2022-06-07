@@ -1,6 +1,8 @@
 ## Learning
 
-[Community Preservation Corpoatinon](https://communityp.com/)
+[reSOURCE](https://support.corcoran.com/hc/en-us/articles/360045190114-reSOURCE-Beyond-the-Basics-)
+
+[Community Preservation Corporation](https://communityp.com/)
 
 [Data Science for the Real Estate Industry - August 23, 2020](https://www.conferencecast.tv/talk-40095-data-science-for-the-real-estate-industry#.talkPage-header)
 
