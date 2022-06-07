@@ -2,6 +2,8 @@
 
 [reSOURCE](https://support.corcoran.com/hc/en-us/articles/360045190114-reSOURCE-Beyond-the-Basics-)
 
+[NYU Real Estate resources](https://guides.nyu.edu/realestate/marketreports)
+
 [Community Preservation Corporation](https://communityp.com/)
 
 [Data Science for the Real Estate Industry - August 23, 2020](https://www.conferencecast.tv/talk-40095-data-science-for-the-real-estate-industry#.talkPage-header)
