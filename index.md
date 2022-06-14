@@ -4,6 +4,8 @@
 
 [NYU Real Estate resources](https://guides.nyu.edu/realestate/marketreports)
 
+[The Future of Brokerage - REBNY](https://youtu.be/rsbmMK_XYtM)
+
 [Community Preservation Corporation](https://communityp.com/)
 
 [Data Science for the Real Estate Industry - August 23, 2020](https://www.conferencecast.tv/talk-40095-data-science-for-the-real-estate-industry#.talkPage-header)
