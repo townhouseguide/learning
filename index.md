@@ -2,6 +2,8 @@
 
 [reSOURCE](https://support.corcoran.com/hc/en-us/articles/360045190114-reSOURCE-Beyond-the-Basics-)
 
+[uploading previous listings](https://outlook.office.com/mail/inbox/id/AAMkAGZlOThjZWExLTBjZTEtNGRjMC05MDBkLTU0MzcyNjg2OTA2ZQBGAAAAAAC6YfFww2n8TLIRGYK5tUVSBwB4hPs2iUvJS735%2ByGJvqOtAAAAAAEMAAB4hPs2iUvJS735%2ByGJvqOtAAAuQlbTAAA%3D)
+
 [NYU Real Estate resources](https://guides.nyu.edu/realestate/marketreports)
 
 [The Future of Brokerage - REBNY](https://youtu.be/rsbmMK_XYtM)
